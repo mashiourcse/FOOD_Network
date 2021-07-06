@@ -47,9 +47,10 @@ h2{
     background-color: skyblue;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 50px;
     color: white;
     font-weight: 700;
+    
 }
 
 .top-banner{
@@ -58,7 +59,7 @@ h2{
     background-repeat: no-repeat;
 }
 
-.dream-big{
+.secondPart{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
@@ -67,13 +68,13 @@ h2{
 }
 
 
-.experience-area{
+.recipe-area{
     /* /* background-image: url("images/exp-bg.png");
     background-repeat: no-repeat; */
     background-position: left;
 }
 
-.experience-item{
+.recipe-item{
     width: 60%;
     padding-top: 2%;
     margin-left: 2%;
@@ -154,4 +155,12 @@ footer h3{
     padding-top: 10px;
     padding-bottom: 80px;
     
+}
+
+.social-number{
+
+    font-weight: 900;
+    font-size: 30px;
+    
+
 }
