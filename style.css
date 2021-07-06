@@ -13,7 +13,7 @@ body{
 }
 .navbar{
     
-    display: flexbox;
+    display: flex;
     justify-content: flex-end;
     background-color: #060607;
 }
