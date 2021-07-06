@@ -4,6 +4,20 @@ body{
 
 }
 
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 7px;
+    color: white;
+}
+.navbar{
+    
+    display: flexbox;
+    justify-content: flex-end;
+    background-color: #060607;
+}
+
 h1{
 
     font-size: 50px;
